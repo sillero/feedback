@@ -1,13 +1,13 @@
 # sillero/feedback
 
 <img src="http://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg" width="20px" title="[en-US]">  
-Questions and answers you would want from @sillero
-Be polite :)
+Questions and answers you would want from @sillero  
+Be polite :)  
 Forked from [@holman's feedback repo](https://github.com/holman/feedback)
 
 <img src="http://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" width="20px" title="[pt-BR]">  
-Perguntas e respostas que você gostaria de fazer ao @sillero
-Seja educado :)
+Perguntas e respostas que você gostaria de fazer ao @sillero  
+Seja educado :)  
 Fork de [repositório feedback do @holman](https://github.com/holman/feedback)
 
 ---
@@ -55,9 +55,10 @@ as threads antigas.
 
 <img src="http://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg" width="20px" title="[en-US]">  
 If you have something quick and easy, just ping me on Twitter. 140 characters
-makes everyone more efficient. I'm [@sillero](https://twitter.com/sillero) on
-Twitter.
+makes everyone more efficient.  
+I'm [@sillero](https://twitter.com/sillero) on Twitter.
 
 <img src="http://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" width="20px" title="[pt-BR]">  
 Se quiser falar comigo de forma mais rápida, mande um tweet. 140 caracteres tornam
-todos mais eficientes. Eu sou o [@sillero](https://twitter.com/sillero) no Twitter.
+todos mais eficientes.  
+Eu sou o [@sillero](https://twitter.com/sillero) no Twitter.
